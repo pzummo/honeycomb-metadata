@@ -6,5 +6,5 @@ The native token is **Honey (HNY)**, used to reward participants for proof-of-se
 - Chain Name: Honeycomb Mainnet
 - Chain ID: 46639
 - Maintainer: NGS Labs (https://ngs-labs.com)
-- Primary Repository: https://github.com/ngs-labs/honeycomb-chain
+- Primary Repository: https://github.com/ngs-labs/honeycomb-mainnet
 - Status: Reserved (under development)
